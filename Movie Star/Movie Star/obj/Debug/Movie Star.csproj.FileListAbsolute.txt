@@ -1,0 +1,12 @@
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\bin\Debug\Movie Star.exe.config
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\bin\Debug\Movie Star.exe
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\bin\Debug\Movie Star.pdb
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\bin\Debug\Newtonsoft.Json.dll
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\bin\Debug\Newtonsoft.Json.pdb
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\bin\Debug\Newtonsoft.Json.xml
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\obj\Debug\Movie Star.csprojResolveAssemblyReference.cache
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\obj\Debug\Movie_Star.Form1.resources
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\obj\Debug\Movie_Star.Properties.Resources.resources
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\obj\Debug\Movie Star.csproj.GenerateResource.Cache
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\obj\Debug\Movie Star.exe
+c:\users\aman kumar\documents\visual studio 2015\Projects\Movie Star\Movie Star\obj\Debug\Movie Star.pdb
